@@ -1,0 +1,1 @@
+g++   -std=c++11 -O3 -O3 -DNDEBUG    CMakeFiles/leet001.dir/src/leet001.cpp.o  -o ../bin/leet001 -rdynamic 
